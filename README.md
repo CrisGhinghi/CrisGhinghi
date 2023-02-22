@@ -20,15 +20,15 @@
 <br/>
 <p align="center">
   <a href="http://CrisGhinghi.com/">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=CrisGhinghi&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=CrisGhinghi&theme=radical&hide_border=true">		  
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=CrisGhinghi&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=CrisGhinghi&theme=radical&hide_border=true">		  
   </a>
 </p>
 <br>
 
 <p align="center">
   <a href="http://CrisGhinghi.com/">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisGhinghi&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisGhinghi&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
 
