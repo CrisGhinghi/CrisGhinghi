@@ -21,6 +21,7 @@
 <p align="center">
   <a href="http://CrisGhinghi.com/">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=CrisGhinghi&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <br>
     <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=CrisGhinghi&theme=radical&hide_border=true">		  
   </a>
 </p>
