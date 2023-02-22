@@ -14,7 +14,7 @@
    style="max-width: 100%;">
   </a>
   <a href="https://www.instagram.com/cristinaghinghiloschi/" rel="nofollow">
-  <img alt="Cristina's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+  <img alt="Cristina's Instagram" width="110px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
    style="max-width: 100%;">
   </a>
 </div>
