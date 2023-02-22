@@ -10,11 +10,13 @@
 <p>
 <div align="center">
   <a href="https://www.linkedin.com/in/cristina-ghinghiloschi-643835261/" rel="nofollow">
-	 	<img alt="Cristina's Linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;">
-	</a>
-	<a href="https://www.instagram.com/cristinaghinghiloschi/" rel="nofollow">
-	 	<img alt="Cristina's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%;">
-	</a>
+  <img alt="Cristina's Linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+   style="max-width: 100%;">
+  </a>
+  <a href="https://www.instagram.com/cristinaghinghiloschi/" rel="nofollow">
+  <img alt="Cristina's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+   style="max-width: 100%;">
+  </a>
 </div>
 </p>
 
