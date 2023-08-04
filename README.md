@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{CrisGhinghi}/count.svg"></p>
 
-<p align="center">📚 I’m currently learning how to become a <strong>Full Stack Developer</strong></p>
+<p align="center">📚 I’m currently learning how to become a <strong>Front End Developer</strong></p>
 <p align="center">📫 How to reach me <strong>cristinaghinghiloschi.to@gmail.com</strong></p>
 
 <h4 align="center">Connect with me:</h4>
@@ -47,11 +47,16 @@
   </a>
 </p>
 
-## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> About Me
-Hi, I'm Cris and I want to become a programmer! I'm 25 years old, I was born in Romania, but I've been living in Italy for almost my entire life.
+## Welcome to my digital playground 👾
+Hi, I'm Cris. 
+Born in 1997, based in Italy. 
+Nice to meet you.
 
-I have been working in the restaurant industry for years which has allowed me to acquire important relational and communication skills, but it has never allowed me to fully realize myself. I have always known that I am capable of doing different activities, but I have never found my true passion. 
+I'm not just passionate about technology and innovation, but also about the magic they can create.
 
-After a long period of introspection, I decided to search for my path through a process of self-analysis, evaluating my skills, analyzing what I like to do and imagining my future. With great enthusiasm, I enrolled on the Start2impact platform, which gave me the opportunity to start fulfilling my true aspiration: becoming a programmer. 
+It's not just about writing lines of code - it's about using that code to breathe life into ideas, to shape dreams into reality, and to craft digital solutions that solve real-world problems.
+I love the process of constructing, creating, and ultimately transforming a concept into a functioning application.
 
-Programming is a discipline that combines creativity with logic and precision, and it allows me to express my creativity through code. The possibility of creating software and applications that can improve people's lives excites me. Now I feel motivated and ready to undertake this new professional adventure.
+Welcome to my world, where code meets creativity.
+
+
