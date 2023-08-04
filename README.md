@@ -41,18 +41,6 @@ Welcome to my world, where code meets creativity.
 </div>
 </p>
 
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
-
-<br/>
-<p align="center">
-  <a href="http://CrisGhinghi.com/">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=CrisGhinghi&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
-    <br>
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=CrisGhinghi&theme=radical&hide_border=true">		  
-  </a>
-</p>
-<br>
-
 <p align="center">
   <a href="http://CrisGhinghi.com/">
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisGhinghi&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
