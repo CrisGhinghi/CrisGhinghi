@@ -36,6 +36,8 @@ Welcome to my world, where code meets creativity.
   <img src="https://img.shields.io/badge/CSS-3b82f6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
   <img src="https://img.shields.io/badge/React-22d3ee.svg?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind-14b8a6.svg?style=for-the-badge&logo=tailwind3&logoColor=white">
+  <img src="https://img.shields.io/badge/Node-84cc16.svg?style=for-the-badge&logo=node&logoColor=white">
 </div>
 </p>
 
