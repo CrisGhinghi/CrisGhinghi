@@ -1,10 +1,19 @@
 <h1 align="center">Hi 👋, I'm Cristina Ghinghiloschi 👩🏻‍💻</h1>
-<h2 align="center">I'm a student of Start2Impact University.</h2>
+<h2 align="center">Welcome to my digital playground 👾</h2>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{CrisGhinghi}/count.svg"></p>
+Hi, I'm Cris. 
+Born in 1997, based in Italy. 
+Nice to meet you.
 
-<p align="center">📚 I’m currently learning how to become a <strong>Front End Developer</strong></p>
-<p align="center">📫 How to reach me <strong>cristinaghinghiloschi.to@gmail.com</strong></p>
+I'm not just passionate about technology and innovation, but also about the magic they can create.
+
+It's not just about writing lines of code - it's about using that code to breathe life into ideas, to shape dreams into reality, and to craft digital solutions that solve real-world problems.
+I love the process of constructing, creating, and ultimately transforming a concept into a functioning application.
+
+Welcome to my world, where code meets creativity.
+
+
+<p align="center">📫 Mail me: <strong>cristinaghinghiloschi.to@gmail.com</strong></p>
 
 <h4 align="center">Connect with me:</h4>
 <p>
@@ -24,8 +33,9 @@
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-3b82f6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
+  <img src="https://img.shields.io/badge/React-22d3ee.svg?style=for-the-badge&logo=react&logoColor=white">
 </div>
 </p>
 
@@ -46,17 +56,3 @@
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisGhinghi&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
-
-## Welcome to my digital playground 👾
-Hi, I'm Cris. 
-Born in 1997, based in Italy. 
-Nice to meet you.
-
-I'm not just passionate about technology and innovation, but also about the magic they can create.
-
-It's not just about writing lines of code - it's about using that code to breathe life into ideas, to shape dreams into reality, and to craft digital solutions that solve real-world problems.
-I love the process of constructing, creating, and ultimately transforming a concept into a functioning application.
-
-Welcome to my world, where code meets creativity.
-
-
